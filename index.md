@@ -10,30 +10,8 @@ Belajar, menjadi salah satu alasan mengapa blog ini saya buat,
 sebenarnya sebelum ini saya sudah pernah membuat blog yang diantaranya 
 menggunakan CMS (Content Management System) seperti joomla, Wordpress dan blogger.
 
->A
-
->D
-
->H
-
->O
-
->W
-
->N
-
->
->M
->A
->L
->A
->K
->I
->A
->N
-
-
-[adhown]: (http://adhown.github.com/)
+[adhown][]
+[adhown]: http://adhown.github.com/
 <hr>
 <hr>
    
