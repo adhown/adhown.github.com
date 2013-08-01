@@ -4,3 +4,8 @@
 ## jekyll
 
 blog ini dibuat menggunakan jekyll
+
+
+##travis-ci
+
+cuma coba-coba
